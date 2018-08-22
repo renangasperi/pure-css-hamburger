@@ -1,0 +1,96 @@
+.paocima{
+	display: inline-block;
+	height: 40px;
+	width: 100px;
+	border-top-left-radius: 80px;
+	border-top-right-radius: 80px;
+	background-color: rgba(255,206,147,189);
+	position: absolute;
+	margin-left: 50px;
+
+}
+
+.paobaixo{
+	display: inline-block;
+	height: 25px;
+	width: 100px;
+	background-color: rgba(255,206,147,189);
+	position: absolute;
+ 	margin-left: 50px;
+	margin-top: 60px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	//box-shadow: inset 0px 0px 10px rgba(255,206,147,189);
+}
+
+.queijo{
+	display: inline-block;
+	height: 4px;
+	width: 106px;
+	background-color: rgba(253,232,111,171);
+	position: absolute;
+	margin-left: 47px;
+	margin-top: 40px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.burg{
+	display: inline-block;
+	height: 17px;
+	width: 106px;
+	background-color: #712a2a;
+	border-radius: 5px;
+	position: absolute;
+  margin-left: 47px;
+	margin-top: 40px;
+}
+
+.tomate{
+	display: inline-block;
+	height: 3px;
+	width: 98px;
+	background-color: red;
+  margin-left: 51px;
+	margin-top: 57px;
+}
+
+.folha1{
+	display: inline-block;
+	height: 10px;
+	width: 20px;
+	background-color: lightgreen;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	margin-left: 60px;
+}
+.folha2{
+	height: 10px;
+	width: 20px;
+	background-color: lightgreen;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.folha3{
+	height: 10px;
+	width: 20px;
+	background-color: lightgreen;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.folha4{
+	height: 10px;
+	width: 20px;
+	background-color: lightgreen;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.folha5{
+	height: 10px;
+	width: 20px;
+	background-color: lightgreen;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+
