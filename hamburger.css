@@ -1,0 +1,121 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.paocima{
+	height: 40px;
+	width: 100px;
+	border-top-left-radius: 80px;
+	border-top-right-radius: 80px;
+	background-color: #ffce93;
+	position: absolute;
+	top: 50px;
+	box-shadow: inset 10px 2px 13px #f7c07f;
+}
+
+.tomate{
+	height: 2px;
+	width: 98px;
+	background-color: #ff0000;
+	position:absolute;
+	top: 90px;
+	box-shadow: inset 9px 0.5px 3px #c70000;
+}
+
+.queijo{
+	height: 4px;
+	width: 106px;
+	background-color: #fde86f;
+	position: absolute;
+	top: 92px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	box-shadow: inset 12px 0.5px 3px #ffe657;
+}
+
+.burg{
+	height: 17px;
+	width: 106px;
+	background-color: #712a2a;
+	border-radius: 5px;
+	position: absolute;
+	top: 92px;
+	box-shadow: inset 12px 0px 7px #632525;;
+}
+
+.folhas{
+	width: 100px;
+	height: 10px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	position: absolute;
+	top: 109px;
+}
+.folha1{
+	height: 10px;
+	width: 20px;
+	background-color: #90ee90;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	box-shadow: inset 10px 0px 6px #77ec77;
+}
+
+.folha2{
+	height: 10px;
+	width: 20px;
+	background-color: #90ee90;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.folha3{
+	height: 10px;
+	width: 20px;
+	background-color: #90ee90;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.folha4{
+	height: 10px;
+	width: 20px;
+	background-color: #90ee90;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.folha5{
+	height: 10px;
+	width: 20px;
+	background-color: #90ee90;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.folha6{
+	height: 10px;
+	width: 20px;
+	background-color: #90ee90;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.paobaixo{
+	height: 25px;
+	width: 100px;
+	background-color: #ffce93;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	position: absolute;
+	top: 109px;
+  box-shadow: inset 10px 0px 15px #f7c07f;
+}
